@@ -1,7 +1,7 @@
 import React  from 'react';
 import { HitButton } from './hitButtonView';
 import { connect } from "react-redux";
-import { setPlpProducts } from "../../actions/ThanosHitButton/hitButtonActions";
+import { setPlpProducts } from "../../redux/reducers/ThanosHitButton/hitButtonActions";
 
 class HitButtonContainer extends React.Component {
 

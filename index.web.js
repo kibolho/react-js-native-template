@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './web/App.jsx';
 import { Provider } from "react-redux";
-import { initializeStore } from "./initializeStore";
+import { initializeStore } from "./redux/initializeStore";
 
 const store = initializeStore();
 

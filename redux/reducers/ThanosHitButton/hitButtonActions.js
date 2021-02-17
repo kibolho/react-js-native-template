@@ -1,4 +1,4 @@
-import { HIT_BUTTON_CONSTANTS } from "../../constants/ThanosHitButton/hitButtonConstants";
+import { HIT_BUTTON_CONSTANTS } from "../../../constants/ThanosHitButton/hitButtonConstants";
 
 export const setPlpProducts = payload => {
     return {

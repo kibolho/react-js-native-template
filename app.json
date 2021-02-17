@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "reactNativeCodeResue",
-    "slug": "codeResue",
+    "name": "react-js-native",
+    "slug": "reactJSNative",
     "privacy": "public",
     "sdkVersion": "30.0.0",
     "platforms": [

@@ -2,9 +2,9 @@
  * This Module is an entry point of the App for React Native.
  */
 import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, View } from 'react-native';
 import { Provider } from "react-redux";
-import { initializeStore } from "./initializeStore";
+import { initializeStore } from "./redux/initializeStore";
 import Header from "./app/components/header/headerComponent.js";
 import { Footer } from "./app/components/footer/footerComponent.js";
 import MainComponent from "./app/components/mainContent/mainBodyComponent.js";
