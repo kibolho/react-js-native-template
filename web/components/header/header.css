@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+}
+.header {
+    padding: 5%;
+    text-align: center;
+}
+.page-heading {
+    font-size: 3rem;
+    font-weight: 900;
+}
